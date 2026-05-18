@@ -61,8 +61,8 @@ export default function LoginPage() {
           <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: 8 }}>Exam Details</div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: '0.82rem', opacity: 0.9 }}>
             <div>Duration: <strong>40 Minutes</strong></div>
-            <div>Total Questions: <strong>100</strong></div>
-            <div>Topics: <strong>HTML, CSS, JavaScript, React</strong></div>
+            <div>Total Questions: <strong>40</strong></div>
+            <div>Topics: <strong>HTML, CSS, Digital Marketing</strong></div>
           </div>
         </div>
       </div>
